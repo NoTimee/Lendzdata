@@ -16,7 +16,7 @@ fetch(API)
 .then(res => res.weather())
 .then(weather => console.log(weather));
 
-const local = args[0
+const local = args[0]
 const city = require('./api/main') //&& args[0]
 //
 fetch(city)
