@@ -1,1 +1,18 @@
-{}
+data/api
+
+{
+  "data": [{
+    "vision": "server",
+    "id": "764888495885516830",
+    "de": {
+      "title": "API",
+      "body": "Error."
+    }
+  }],
+  "motherserver": [
+    {
+      "name": "LeNdZ™ 🌎",
+      "id": "764888495885516830",
+    }
+  ]
+}
